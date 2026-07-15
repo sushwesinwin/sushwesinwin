@@ -4,11 +4,11 @@
 
 I specialize in building scalable SaaS applications, working with modern web technologies, and crafting high-performance user experiences. I enjoy exploring new tech and keeping up with the latest industry trends.
 
-## 🚀 About Me
-- 💼 Currently working as a **Technical Lead** at Job Academy
-- 🔧 Specialize in bridging business logic, system architecture, and hands-on feature development
-- 🎓 Holds a Bachelor of Engineering in Electronics and Communication Engineering (EC)
-- 📫 Reach out to me: [sushwesinw@gmail.com](mailto:sushwesinw@gmail.com)
+## About Me
+- Currently working as a **Technical Lead** at Job Academy
+- Specialize in bridging business logic, system architecture, and hands-on feature development
+- Holds a Bachelor of Engineering in Electronics and Communication Engineering (EC)
+- Reach out to me: [sushwesinw@gmail.com](mailto:sushwesinw@gmail.com)
 
 ---
 
@@ -38,18 +38,6 @@ I specialize in building scalable SaaS applications, working with modern web tec
 - **AI-Assisted Software Engineer** @ Manifest Movies *(Jan 2026 - Apr 2026)*
 - **Junior Web Developer** @ Village Link *(Apr 2024 - Feb 2025)*
 - **Software Developer Intern** @ Yoma Fleet *(2023)*
-
----
-
-## 🛠️ Featured Projects
-
-### 🌐 [Job Academy Platform](https://www.jobacademyhub.com/)
-A comprehensive recruitment and career platform.
-- **Stack:** Next.js, TypeScript, Tailwind CSS, PostgreSQL, Prisma, ClickUp
-
-### 🏢 [Goodwill Advisory Website](https://goodwilladvisory.vercel.app/en)
-A localized corporate platform for Goodwill Advisory Group. 
-- **Stack:** Next.js, Modern Web Architecture
 
 ---
 
