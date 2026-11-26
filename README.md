@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="./assets/spirited-away.gif" width="450" alt="Spirited Away"/>
-</div>
-
-<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=400&size=36&duration=3500&pause=2000&color=94B8D8&center=true&vCenter=true&width=650&height=70&lines=Hi%2C+I'm+Su+Shwe+Sin+Win." alt="Introduction"/>
 
