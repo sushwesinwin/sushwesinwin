@@ -1,48 +1,86 @@
-# Hi there, I'm Su Shwe Sin Win 
 
-**Full-Stack Developer** 
+<div align="center">
 
-I specialize in building scalable SaaS applications, working with modern web technologies, and crafting high-performance user experiences. I enjoy exploring new tech and keeping up with the latest industry trends.
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=400&size=36&duration=3500&pause=2000&color=94B8D8&center=true&vCenter=true&width=650&height=70&lines=Hi%2C+I'm+Su+Shwe+Sin+Win." alt="Introduction"/>
 
-## About Me
-- Currently working as a **Technical Lead** at Job Academy
-- Specialize in bridging business logic, system architecture, and hands-on feature development
-- Holds a Bachelor of Engineering in Electronics and Communication Engineering (EC)
-- Reach out to me: [sushwesinw@gmail.com](mailto:sushwesinw@gmail.com)
+**Technical Lead · Full-Stack Developer**
 
----
+Building scalable SaaS products, exploring new tech,  
+and creating meaningful digital experiences.
 
-## 💻 Tech Arsenal
+<br/>
 
-### **Frontend**
+<sub>
+
+[Portfolio](https://ssswdev-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/su-shwe-sin-win/) · [Email](mailto:sushwesinw@gmail.com)
+
+</sub>
+
+</div>
+
+<br/>
+
+## About
+
+- Currently leading development at **Job Academy**
+- Bridging business logic, system architecture, and hands-on development
+- Exploring emerging technologies and AI-assisted engineering
+- B.Eng. in Electronics and Communication Engineering
+
+<br/>
+
+## Tech Stack
+
+**Frontend & Design**  
 `React` `Next.js` `TypeScript` `Tailwind CSS` `Figma`
 
-### **Backend & APIs**
-`Node.js` `NestJS` `Express` `Hono` 
+**Backend & APIs**  
+`Node.js` `NestJS` `Express` `Hono`
 
-### **Database & ORM**
+**Database & ORM**  
 `PostgreSQL` `MongoDB` `Prisma`
 
-### **DevOps & Tooling**
-`Docker` `Hermes` `Sentry` `PostHog` `Git` `Jira` `ClickUp`
+**Infrastructure & Observability**  
+`Docker` `Hermes` `Sentry` `PostHog`
 
-### **AI Tools**
+**Workflow**  
+`Git` `Jira` `ClickUp`
+
+**AI-Assisted Development**  
 `Claude AI` `Codex`
 
----
+<br/>
 
-## 📈 Experience
+## Experience
 
-- **Technical Lead** @ Job Academy *(Jun 2025 - Present)*
-- **Full-Stack Developer** @ NexStack *(Jan 2026 - Jun 2026)*
-- **AI-Assisted Software Engineer** @ Manifest Movies *(Jan 2026 - Apr 2026)*
-- **Junior Web Developer** @ Village Link *(Apr 2024 - Feb 2025)*
-- **Software Developer Intern** @ Yoma Fleet *(2023)*
+**Technical Lead**  
+Job Academy · Jun 2025 — Present
 
----
+**Full-Stack Developer**  
+NexStack · Jan 2026 — Jun 2026
 
-## 🔗 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/su-shwe-sin-win/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sushwesinwin)
-[![Daily.dev](https://img.shields.io/badge/daily.dev-F04A50?style=for-the-badge&logo=daily.dev&logoColor=white)](https://daily.dev/sssw)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://ssswdev-portfolio.vercel.app/)
+**AI-Assisted Software Engineer**  
+Manifest Movies · Jan 2026 — Apr 2026
+
+**Junior Web Developer**  
+Village Link · Apr 2024 — Feb 2025
+
+**Software Developer Intern**  
+Yoma Fleet · 2023
+
+<br/>
+
+## Elsewhere
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E293B?style=flat-square&logo=linkedin&logoColor=CBD5E1)](https://www.linkedin.com/in/su-shwe-sin-win/)
+[![GitHub](https://img.shields.io/badge/GitHub-1E293B?style=flat-square&logo=github&logoColor=CBD5E1)](https://github.com/sushwesinwin)
+[![Daily.dev](https://img.shields.io/badge/daily.dev-1E293B?style=flat-square&logo=dailydotdev&logoColor=CBD5E1)](https://daily.dev/sssw)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1E293B?style=flat-square&logo=vercel&logoColor=CBD5E1)](https://ssswdev-portfolio.vercel.app/)
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=400&size=16&duration=4000&pause=2000&color=94A3B8&center=true&vCenter=true&width=500&lines=Always+curious.+Always+building." alt="Closing"/>
+
+</div>
