@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="./assets/spirited-away.gif" width="450" alt="Spirited Away"/>
+</div>
 
 <div align="center">
 
