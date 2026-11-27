@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=400&size=36&duration=3500&pause=2000&color=94B8D8&center=true&vCenter=true&width=650&height=70&lines=Hi%2C+I'm+Su+Shwe+Sin+Win." alt="Introduction"/>
 
-**Technical Lead · Full-Stack Developer**
+**Full-Stack Developer**
 
 Building scalable SaaS products, exploring new tech,  
 and creating meaningful digital experiences.
@@ -21,7 +21,6 @@ and creating meaningful digital experiences.
 
 ## About
 
-- Currently leading development at **Job Academy**
 - Bridging business logic, system architecture, and hands-on development
 - Exploring emerging technologies and AI-assisted engineering
 - B.Eng. in Electronics and Communication Engineering
